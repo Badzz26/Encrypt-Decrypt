@@ -1,0 +1,19 @@
+.navigation__bar {
+    border-radius: 2rem;    
+
+}
+
+.navigation__bar .navbar-brand{
+    color: rgb(1, 104, 1);
+    font-weight: bolder;
+}
+
+.navigation__bar .nav-link {
+    color: rgb(1, 104, 1);
+    font-weight: 500;
+}
+
+.active__page {
+    font-size: larger;
+}
+
